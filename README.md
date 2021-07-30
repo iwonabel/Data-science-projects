@@ -1,4 +1,4 @@
 # Data-science-projects
-Completed data science project for academic, self learning, and hobby purposes.
+Successfully completed project for Data Science Bootcamp certification.
 
 Analysis of Lending Club Loan data.
